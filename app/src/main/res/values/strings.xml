@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Basic Fragment </string>
+    <string name="static_fragment">Fragment statique</string>
+    <string name="dynamic_fragment">Fragment dynamique</string>
+</resources>
